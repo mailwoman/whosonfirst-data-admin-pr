@@ -1,0 +1,81 @@
+{
+  "id": 9895008284,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.2309953159209,18.426052999822133,-66.2309953159209,18.426052999822133",
+    "geom:latitude":18.426053,
+    "geom:longitude":-66.230995,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807588: name \"Villa Esperanza\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807588"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807588: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807588"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807588: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807588"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080329 (Toa Baja).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080329 (Toa Baja), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Villa Esperanza"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080329,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807588
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"bc3c9a4d9426f4d9589bf92c357efa7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080329,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008284
+        }
+    ],
+    "wof:id":9895008284,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Villa Esperanza",
+    "wof:parent_id":102080329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.2309953159209,
+    18.426052999822133,
+    -66.2309953159209,
+    18.426052999822133
+],
+  "geometry": {"coordinates":[-66.2309953159209,18.426052999822133],"type":"Point"}
+}

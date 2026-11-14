@@ -1,0 +1,81 @@
+{
+  "id": 9895008259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.66229198239985,18.271022286761397,-65.66229198239985,18.271022286761397",
+    "geom:latitude":18.271022,
+    "geom:longitude":-65.662292,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807563: name \"Santa Mar\u00eda Census Designated Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807563"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807563: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807563"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807563: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807563"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080341 (Ceiba).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080341 (Ceiba), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda Census Designated Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080341,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807563
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"78ab7d3a8f33691bca2c8a49b9195594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080341,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008259
+        }
+    ],
+    "wof:id":9895008259,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Santa Mar\u00eda Census Designated Place",
+    "wof:parent_id":102080341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.66229198239985,
+    18.271022286761397,
+    -65.66229198239985,
+    18.271022286761397
+],
+  "geometry": {"coordinates":[-65.66229198239985,18.271022286761397],"type":"Point"}
+}

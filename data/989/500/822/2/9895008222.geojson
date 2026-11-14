@@ -1,0 +1,83 @@
+{
+  "id": 9895008222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.99323235002281,18.33356406049877,-66.99323235002281,18.33356406049877",
+    "geom:latitude":18.333564,
+    "geom:longitude":-66.993232,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1991819: name \"Paralelo 38\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1991819"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1991819: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1991819"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1991819: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1991819"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101919005 (San Sebasti\u00e1n).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101919005 (San Sebasti\u00e1n), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Paralelo 38"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        101919005,
+        102080411,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1991819
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"6b7bbecc2457c99500fd3f7deacff340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080411,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919005,
+            "neighbourhood_id":9895008222
+        }
+    ],
+    "wof:id":9895008222,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Paralelo 38",
+    "wof:parent_id":101919005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.99323235002281,
+    18.33356406049877,
+    -66.99323235002281,
+    18.33356406049877
+],
+  "geometry": {"coordinates":[-66.99323235002281,18.33356406049877],"type":"Point"}
+}

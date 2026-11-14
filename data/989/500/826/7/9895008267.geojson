@@ -1,0 +1,81 @@
+{
+  "id": 9895008267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23316678021952,18.190155721279872,-66.23316678021952,18.190155721279872",
+    "geom:latitude":18.190156,
+    "geom:longitude":-66.233167,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807571: name \"Pi\u00f1as Census Designated Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807571"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807571: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807571"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807571: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807571"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080291 (Comer\u00edo).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080291 (Comer\u00edo), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Pi\u00f1as Census Designated Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080291,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807571
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"a323e09b8c9a8411876cc854f4dd6d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080291,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008267
+        }
+    ],
+    "wof:id":9895008267,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Pi\u00f1as Census Designated Place",
+    "wof:parent_id":102080291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23316678021952,
+    18.190155721279872,
+    -66.23316678021952,
+    18.190155721279872
+],
+  "geometry": {"coordinates":[-66.23316678021952,18.190155721279872],"type":"Point"}
+}

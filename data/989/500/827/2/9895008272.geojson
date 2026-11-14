@@ -1,0 +1,81 @@
+{
+  "id": 9895008272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.20427840786816,18.43909310379085,-66.20427840786816,18.43909310379085",
+    "geom:latitude":18.439093,
+    "geom:longitude":-66.204278,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807576: name \"El Veintis\u00e9is\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807576"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807576: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807576"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807576: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807576"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080329 (Toa Baja).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080329 (Toa Baja), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "El Veintis\u00e9is"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080329,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807576
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"540d26297457062476cb5d29f4bc042a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080329,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008272
+        }
+    ],
+    "wof:id":9895008272,
+    "wof:lastmodified":1794684277,
+    "wof:name":"El Veintis\u00e9is",
+    "wof:parent_id":102080329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.20427840786816,
+    18.43909310379085,
+    -66.20427840786816,
+    18.43909310379085
+],
+  "geometry": {"coordinates":[-66.20427840786816,18.43909310379085],"type":"Point"}
+}

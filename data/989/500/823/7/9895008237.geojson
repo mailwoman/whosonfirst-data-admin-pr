@@ -1,0 +1,81 @@
+{
+  "id": 9895008237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.08546547943106,18.379971772317774,-67.08546547943106,18.379971772317774",
+    "geom:latitude":18.379972,
+    "geom:longitude":-67.085465,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804373: name \"Voladoras\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804373"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804373: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804373"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804373: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804373"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080423 (Moca).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080423 (Moca), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Voladoras"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080423,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804373
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"727cbd08807c66af806b0c226b690e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080423,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008237
+        }
+    ],
+    "wof:id":9895008237,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Voladoras",
+    "wof:parent_id":102080423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.08546547943106,
+    18.379971772317774,
+    -67.08546547943106,
+    18.379971772317774
+],
+  "geometry": {"coordinates":[-67.08546547943106,18.379971772317774],"type":"Point"}
+}

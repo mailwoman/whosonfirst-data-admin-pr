@@ -1,0 +1,81 @@
+{
+  "id": 9895008263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.47497578965874,18.30719596076301,-66.47497578965874,18.30719596076301",
+    "geom:latitude":18.307196,
+    "geom:longitude":-66.474976,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807567: name \"Jaguas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807567: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807567"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807567: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807567"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080317 (Ciales).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080317 (Ciales), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Jaguas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080317,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807567
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"4e851119cfca1917e03dc5fa4118b724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008263
+        }
+    ],
+    "wof:id":9895008263,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Jaguas",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.47497578965874,
+    18.30719596076301,
+    -66.47497578965874,
+    18.30719596076301
+],
+  "geometry": {"coordinates":[-66.47497578965874,18.30719596076301],"type":"Point"}
+}

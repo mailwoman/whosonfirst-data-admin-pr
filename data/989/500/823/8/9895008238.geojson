@@ -1,0 +1,81 @@
+{
+  "id": 9895008238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.0468009591745,18.430162104023733,-66.0468009591745,18.430162104023733",
+    "geom:latitude":18.430162,
+    "geom:longitude":-66.046801,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805714: name \"Ca\u00f1o Martin Pe\u00f1a Census Designated Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805714"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805714: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805714"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2805714: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2805714"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080441 (San Juan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080441 (San Juan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Ca\u00f1o Martin Pe\u00f1a Census Designated Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080441,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2805714
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"f1fc63c0688a37815afd67e81c2fdab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008238
+        }
+    ],
+    "wof:id":9895008238,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Ca\u00f1o Martin Pe\u00f1a Census Designated Place",
+    "wof:parent_id":102080441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.0468009591745,
+    18.430162104023733,
+    -66.0468009591745,
+    18.430162104023733
+],
+  "geometry": {"coordinates":[-66.0468009591745,18.430162104023733],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 9895008269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.22606657167232,18.431600814514102,-66.22606657167232,18.431600814514102",
+    "geom:latitude":18.431601,
+    "geom:longitude":-66.226067,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807573: name \"Brisas del Campanero Census Designated Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807573: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807573"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807573: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807573"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080329 (Toa Baja).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080329 (Toa Baja), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Brisas del Campanero Census Designated Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080329,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807573
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"713c709abc531cf4b00ddd8ba00eeebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080329,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008269
+        }
+    ],
+    "wof:id":9895008269,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Brisas del Campanero Census Designated Place",
+    "wof:parent_id":102080329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.22606657167232,
+    18.431600814514102,
+    -66.22606657167232,
+    18.431600814514102
+],
+  "geometry": {"coordinates":[-66.22606657167232,18.431600814514102],"type":"Point"}
+}

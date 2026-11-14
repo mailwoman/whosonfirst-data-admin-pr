@@ -1,0 +1,81 @@
+{
+  "id": 9895008277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.19369521087718,18.437021132296824,-66.19369521087718,18.437021132296824",
+    "geom:latitude":18.437021,
+    "geom:longitude":-66.193695,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807581: name \"Mansi\u00f3n del Sol Census Designated Place\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807581: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807581"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807581: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807581"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080329 (Toa Baja).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080329 (Toa Baja), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mansi\u00f3n del Sol Census Designated Place"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080329,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807581
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"66558122dd032a9e9ff5a9aa975393b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080329,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008277
+        }
+    ],
+    "wof:id":9895008277,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Mansi\u00f3n del Sol Census Designated Place",
+    "wof:parent_id":102080329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.19369521087718,
+    18.437021132296824,
+    -66.19369521087718,
+    18.437021132296824
+],
+  "geometry": {"coordinates":[-66.19369521087718,18.437021132296824],"type":"Point"}
+}

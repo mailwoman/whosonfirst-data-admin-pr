@@ -1,0 +1,81 @@
+{
+  "id": 9895008233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.11802268998039,18.380880272449552,-67.11802268998039,18.380880272449552",
+    "geom:latitude":18.38088,
+    "geom:longitude":-67.118023,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804369: name \"Lomas Verdes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804369"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804369: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804369"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804369: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804369"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080423 (Moca).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080423 (Moca), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Lomas Verdes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080423,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804369
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d30f242d35eb861e7b54a8408bd6f82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080423,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008233
+        }
+    ],
+    "wof:id":9895008233,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Lomas Verdes",
+    "wof:parent_id":102080423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.11802268998039,
+    18.380880272449552,
+    -67.11802268998039,
+    18.380880272449552
+],
+  "geometry": {"coordinates":[-67.11802268998039,18.380880272449552],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 9895008282,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.23233081699928,18.442622103875397,-66.23233081699928,18.442622103875397",
+    "geom:latitude":18.442622,
+    "geom:longitude":-66.232331,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807586: name \"Villa Calma\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807586"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807586: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807586"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807586: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807586"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080329 (Toa Baja).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080329 (Toa Baja), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Villa Calma"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080329,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807586
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"3e3eb77f8558f016e04da408b505f60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080329,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008282
+        }
+    ],
+    "wof:id":9895008282,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Villa Calma",
+    "wof:parent_id":102080329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.23233081699928,
+    18.442622103875397,
+    -66.23233081699928,
+    18.442622103875397
+],
+  "geometry": {"coordinates":[-66.23233081699928,18.442622103875397],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 9895008260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.55384981376207,18.30369955831195,-66.55384981376207,18.30369955831195",
+    "geom:latitude":18.3037,
+    "geom:longitude":-66.55385,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807564: name \"Front\u00f3n\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807564: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807564"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807564: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807564"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080317 (Ciales).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080317 (Ciales), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Front\u00f3n"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080317,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807564
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"24cb3b9add7fe04dc47021e3afc56f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080317,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008260
+        }
+    ],
+    "wof:id":9895008260,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Front\u00f3n",
+    "wof:parent_id":102080317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.55384981376207,
+    18.30369955831195,
+    -66.55384981376207,
+    18.30369955831195
+],
+  "geometry": {"coordinates":[-66.55384981376207,18.30369955831195],"type":"Point"}
+}

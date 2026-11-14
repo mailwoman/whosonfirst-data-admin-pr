@@ -1,0 +1,81 @@
+{
+  "id": 9895008235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.1183517904797,18.392121875978233,-67.1183517904797,18.392121875978233",
+    "geom:latitude":18.392122,
+    "geom:longitude":-67.118352,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804371: name \"Los H\u00e9roes\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804371: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804371"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2804371: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2804371"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080423 (Moca).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080423 (Moca), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Los H\u00e9roes"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080423,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2804371
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"5a1df09c0e1ace9106bc48affb79c107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080423,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008235
+        }
+    ],
+    "wof:id":9895008235,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Los H\u00e9roes",
+    "wof:parent_id":102080423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.1183517904797,
+    18.392121875978233,
+    -67.1183517904797,
+    18.392121875978233
+],
+  "geometry": {"coordinates":[-67.1183517904797,18.392121875978233],"type":"Point"}
+}

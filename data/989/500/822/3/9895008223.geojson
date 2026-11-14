@@ -1,0 +1,83 @@
+{
+  "id": 9895008223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-66.11905348335229,18.46605911428808,-66.11905348335229,18.46605911428808",
+    "geom:latitude":18.466059,
+    "geom:longitude":-66.119053,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1993196: name \"El Viejo San Juan\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1993196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1993196: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1993196"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1993196: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1993196"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 101919427 (San Juan).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 101919427 (San Juan), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "El Viejo San Juan"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        101919427,
+        102080441,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1993196
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d8a42b566ab3cd9775fa2b1351da68ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080441,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":101919427,
+            "neighbourhood_id":9895008223
+        }
+    ],
+    "wof:id":9895008223,
+    "wof:lastmodified":1794684277,
+    "wof:name":"El Viejo San Juan",
+    "wof:parent_id":101919427,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -66.11905348335229,
+    18.46605911428808,
+    -66.11905348335229,
+    18.46605911428808
+],
+  "geometry": {"coordinates":[-66.11905348335229,18.46605911428808],"type":"Point"}
+}

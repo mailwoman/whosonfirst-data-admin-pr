@@ -1,0 +1,81 @@
+{
+  "id": 9895008255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-65.89222741075653,18.400115297331848,-65.89222741075653,18.400115297331848",
+    "geom:latitude":18.400115,
+    "geom:longitude":-65.892227,
+    "iso:country":"PR",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807559: name \"Villa Hugo II\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807559: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807559"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2807559: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2807559"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF county 102080387 (Can\u00f3vanas).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102080387 (Can\u00f3vanas), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Villa Hugo II"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85633729,
+        102080387,
+        102191575,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2807559
+    },
+    "wof:country":"PR",
+    "wof:geomhash":"d1e39e12102ce821390b94aed6ad300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":102080387,
+            "dependency_id":85633729,
+            "empire_id":136253057,
+            "locality_id":9895008255
+        }
+    ],
+    "wof:id":9895008255,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Villa Hugo II",
+    "wof:parent_id":102080387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -65.89222741075653,
+    18.400115297331848,
+    -65.89222741075653,
+    18.400115297331848
+],
+  "geometry": {"coordinates":[-65.89222741075653,18.400115297331848],"type":"Point"}
+}
